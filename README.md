@@ -1,1 +1,1 @@
-# JSByExample
+# JavaScriptByExample

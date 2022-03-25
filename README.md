@@ -1,1 +1,1 @@
-# JavaScriptByExample
+# Basics of Coding JavaScript
